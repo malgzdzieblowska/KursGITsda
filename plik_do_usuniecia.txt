@@ -1,1 +1,2 @@
-moja edycja do testów
+plik.txt
+dgladam zmiany
