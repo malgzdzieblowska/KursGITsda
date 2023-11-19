@@ -1,2 +1,1 @@
-plik.txt
-dgladam zmiany
+ala ma kota
