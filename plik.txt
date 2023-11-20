@@ -1,2 +1,1 @@
-Wprowadzam nową funkcjonalność. 
-Wprowadzam drugą funkcjonalnosć drugi commit
+Wprowadzam nową funkcjonalność. 1
